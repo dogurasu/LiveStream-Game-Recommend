@@ -1,3 +1,16 @@
-.topnav_elements {
-    float: left;
+.topnavlinks {
+    margin: 0 0 0 80%;
+    
+}
+
+.linkspacing {
+    padding: 0 5% 0 0;
+}
+
+.logo {
+    text-align: center;
+}
+
+.botnav {
+    text-align: center;
 }
