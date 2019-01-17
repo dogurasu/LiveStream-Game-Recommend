@@ -2,64 +2,107 @@
 <html>
     <head>
         <meta author="Douglas Park">
-        <meta description="A web application that recommends Twitch Channels">
+        <meta description="A web app that recommends Twitch Channels">
         <meta charset="utf-8">
         <link href="assets/stylesheets/main.css" rel="stylesheet">
         <title>Live Stream Recommend</title>
     </head>
     
     <body>
-        <header>
-            <div class="wrap">
+        <!--Nav Bar at top of page-->
+        <header class="top">
+            <div class="wrapper">
                 <nav class="topnav">
                     <div class="topnavlinks">
                         <a class="linkspacing" href="popularRecs.html">Popular Recommendations</a>
                         <a class="linkspacing" href="about.html">About</a>
-                        <a class="linkspacing" href="login.html">Log-In</a>
+                        
                     </div>
                 </nav>
             </div>
         </header>
-
-        <div class="logo">
-            <h1>
-                Live Stream Recommend
-            </h1>
-        </div>
-
-        <div class="main">
-            <div class="wrap">
-                <div class="forms">
-                    <form action="formdata/data.txt" method="post">
-                    <div>
-                        <label for="name">Name:</label>
-                        <input type="text" id="name" name="user_name">
+        
+        <!--Main content of Page-->
+        <section class="main">
+            <div class="wrapper">
+                <div class="logo">
+                    <h1>
+                        Live Stream Recommend
+                    </h1>
+                </div>
+                <div class="description">
+                    <p>
+                        LiveStreamRecommend comes in handy when you've exhausted your list
+                        of Twitch streamers to watch. Select some preferences and see who you might
+                        be interested in watching!
+                    </p>
+                </div>
+                <form class="forms">
+                    <div class="categories">
+                        <div class="categories_text">
+                            <p>
+                                A game that I want to watch is...
+                            </p>
+                        </div>
+                        <select name="categories">
+                            <option value="" disabled selected hidden>Choose a game...</option>
+                            <option value="cs_go">Counter-Strike: Global Offensive</option>
+                            <option value="dota2">Dota 2</option>
+                            <option value="gta5">Grand Theft Auto V</option>
+                            <option value="hearthstone">Hearthstone</option>
+                            <option value="just_chatting">Just Chatting</option>
+                            <option value="lol">League of Legends</option>
+                            <option value="overwatch">Overwatch</option>
+                            <option value="pubg">PlayerUnknown's Battlegrounds</option>
+                            <option value="fortnite">Fortnite</option>
+                            <option value="wow">World of Warcraft</option>
+                        </select>
+                    </div> 
+                    <div class="tags">   
+                        <div class="tags_text">
+                            <p>
+                                A genre that I want to watch is...
+                            </p>
+                        </div>
+                        <select name="tags">
+                            <option value="" disabled selected hidden>Choose a tag...</option>
+                            <option value="action">Action</option>
+                            <option value="card_board_game">Card & Board Game</option>
+                            <option value="creative">Creative</option>
+                            <option value="fighting">Fighting</option>
+                            <option value="fps">FPS</option>
+                            <option value="horror">Horror</option>
+                            <option value="irl">IRL</option>
+                            <option value="mmorpg">MMORPG</option>
+                            <option value="puzzle">Puzzle</option>
+                            <option value="rhythm&music">Rhythm & Music Game</option>
+                            <option value="rts">RTS</option>
+                            <option value="survival">Survival</option>
+                        </select>
                     </div>
-                    <div>
-                        <label for="mail">E-mail:</label>
-                        <input type="email" id="mail" name="user_mail">
-                    </div>
-                    <div>
-                        <label for="msg">Mesage:</label>
-                        <textarea id="msg" name="user_message"></textarea>
-                    </div>
-                    </form>
+                </form>
+                <div class="button">
+                    <button class="channel_recommend" type="button">
+                        Submit
+                    </button>
                 </div>
             </div>
-        </div>
-
-        <footer>
-            <div class="wrap">
+        </section>
+        <!--Nav Bar at bottom of page-->
+        <footer class="bottom">
+            <div class="wrapper">
                 <nav class="botnav">
                     <div>
-                        <small>&copy Doug Park 2019</small>
-                    </div>
-                    <div>
-                        Source Code
+                        <p>
+                            <small>&copy Douglas Park 2019</small>
+                            <a href="https://github.com/dogurasu/LiveStreamRecommend" target="_blank">
+                                <img src="assets/images/github_logo.svg" alt="GitHub cat logo" class="gh_logo">
+                                Source Code
+                            </a>
+                        </p>
                     </div>
                 </nav>
             </div>
         </footer>
-
     </body>
 </html>
