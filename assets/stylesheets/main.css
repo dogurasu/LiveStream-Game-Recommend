@@ -1,14 +1,7 @@
 
 /* Miscellanious */
 
-body {
-    background: #0e1111;
-    color: #f8c8ab;
-    margin: 0;
-    font-family: arial;
-}
-
-form p{
+.categories_text {
     color: #f8c8ab;
     font-size: 18px;
     letter-spacing: 0.1em;
@@ -20,15 +13,15 @@ select {
     -o-appearance: none;
     -ms-appearance: none;
     
-    background: url(../images/select.png) no-repeat 95% center;
-    background-color: #222;
-    color: #fff;
+    display: block;
+    background: url(../../images/select.png) no-repeat 95% center;
+    background-color: black;
+    color: #e5e5e5;
     padding: 1%;
     font-size: 18px;
-    border-radius: 6px;
-    border: 4px solid #fff
-    display: block;
-
+    border-radius: 3px;
+    border: 2px solid #fff;
+    
 }
 
 .channel_recommend {
@@ -40,39 +33,60 @@ select {
     border-radius: 4px;
     border: 0;
     box-shadow: 1px 3px 5px rgba(0,0,0,0.5);
+
+}
+
+.forms {
+    text-align: left;
+    margin: 0 25%;
+}
+
+/*
+.categories {
+    text-align: left;
+    margin: 0 25%;
+}
+
+
+.tags {
+    text-align: left;
+    margin: 0 25%;
+}
+*/
+
+a:hover {
+    color: #6666ff;
+}
+
+a:visited {
+    color: #6666ff;
 }
 
 /* Top Section */
 
 header {
     background: #cdbac7;
-    padding: 20px;
+    
+}
+
+header:after {
+    content: "";
+    display: block;
+    clear: both;
 }
 
 .topnav {
     float: right;
-
-}
-
-/*.topnav:after {
-    content: "";
-    display: block;
-    clear: both;
-}*/
-
-.topnavlinks {
-    
-    
-}
-
-.linkspacing {
-    
+    margin: 10px 0;
 }
 
 /* Body */
 
-.document {
-    /*position:*/
+body {
+    background: #0e1111;
+    color: #f8c8ab;
+    margin: 0;
+    font-family: arial;
 }
 
 .main {
@@ -102,6 +116,15 @@ header {
     
 }
 
+button:hover {
+    border: 
+    background-color:#9999ff;
+}
+
+button:active {
+
+}
+
 .wrapper:after {
     content: "";
     display: block;
@@ -119,21 +142,4 @@ header {
 .botnav {
     text-align: center;
     /*position:*/
-}
-
-/* forms section */
-.forms {
-
-    /*position:*/
-}
-
-.categories {
-    text-align: left;
-    margin: 0 25%;
-}
-
-
-.tags {
-    text-align: left;
-    margin: 0 25%;
 }
