@@ -7,6 +7,7 @@
         <link href="assets/stylesheets/main.css" rel="stylesheet">
         <title>Live Stream Recommend</title>
         <link rel="shortcut icon" type="image/x-icon" href="images/livestream.ico"/>
+        
     </head>
     
     <body>
@@ -33,15 +34,41 @@
                 <div class="description">
                     <p>
                         Live Stream Recommend comes in handy when you've exhausted your list
-                        of Twitch streamers to watch. Select some preferences and see who you might
-                        be interested in watching!
-                    </p>
-                    <p>
-                        Simply select either a game or genre that you are interested in watching and
-                        you will be recommended a channel that is currently live and related to your choices. 
+                        of games to watch on Twitch. Tired of watching the same old Moba's?
+                        How about some Horror for a change? Simply select a genre that you are
+                        interested in watching and you will be recommended content that corresponds to it.
                     </p>
                 </div>
                 <form class="forms">
+                    <div class="tags">   
+                        <div class="tags_text">
+                            <p>
+                                A genre that I feel like watching is...
+                            </p>
+                        </div>
+                        <select name="tags" class="selections" id="genre">
+                            <option value="" disabled selected hidden>Choose a tag...</option>
+                            <option value="action">Action</option>
+                            <option value="card_board_game">MOBA</option>
+                            <option value="creative">IRL</option>
+                            <option value="fighting">Fighting</option>
+                            <option value="fps">FPS</option>
+                            <option value="horror">Horror</option>
+                            <option value="irl">Sports</option>
+                            <option value="mmorpg">MMORPG</option>
+                            <option value="puzzle">Card & Board Game</option>
+                            <option value="rhythm&music">Rhythm & Music Game</option>
+                            <option value="rts">RPG</option>
+                            <option value="survival">Survival</option>
+                        </select>
+                    </div>
+                    <div class="button">
+                        <button onclick="SubmissionClicked()" class="channel_recommend" type="button">
+                            Submit
+                        </button>
+                        <p id="demo">Heya</p>
+                    </div>
+                    <!-- Not doing Categories
                     <div class="categories">
                         <div class="categories_text">
                             <p>
@@ -61,35 +88,10 @@
                             <option value="fortnite">Fortnite</option>
                             <option value="wow">World of Warcraft</option>
                         </select>
-                    </div> 
-                    <div class="tags">   
-                        <div class="tags_text">
-                            <p>
-                                A genre that I want to watch is...
-                            </p>
-                        </div>
-                        <select name="tags">
-                            <option value="" disabled selected hidden>Choose a tag...</option>
-                            <option value="action">Action</option>
-                            <option value="card_board_game">Card & Board Game</option>
-                            <option value="creative">Creative</option>
-                            <option value="fighting">Fighting</option>
-                            <option value="fps">FPS</option>
-                            <option value="horror">Horror</option>
-                            <option value="irl">IRL</option>
-                            <option value="mmorpg">MMORPG</option>
-                            <option value="puzzle">Puzzle</option>
-                            <option value="rhythm&music">Rhythm & Music Game</option>
-                            <option value="rts">RTS</option>
-                            <option value="survival">Survival</option>
-                        </select>
-                    </div>
+                    </div> -->
+                    
                 </form>
-                <div class="button">
-                    <button class="channel_recommend" type="button">
-                        Submit
-                    </button>
-                </div>
+                
             </div>
         </section>
         <!--Nav Bar at bottom of page-->
@@ -108,6 +110,8 @@
                 </nav>
             </div>
         </footer>
+        
+        <script src="scripts/main.js"></script>
     
     </body>
 </html>
