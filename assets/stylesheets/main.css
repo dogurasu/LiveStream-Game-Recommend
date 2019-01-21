@@ -123,17 +123,15 @@ button:hover {
     background-color: #9999ff;
 }
 
-button:active {
-
-}
-
 .wrapper:after {
     content: "";
     display: block;
     clear: both;
 }
 
-
+#demo {
+    font-size: 26px;
+}
 
 /* Bottom */
 
