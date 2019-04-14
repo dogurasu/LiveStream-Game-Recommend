@@ -1,0 +1,90 @@
+{
+    "data": [
+        {
+            "id": "33673974512",
+            "user_id": "36029255",
+            "user_name": "Riot Games",
+            "game_id": "21779",
+            "community_ids": [
+                "ad14d4fc-1a7c-413f-aa32-4906ef3669ae"
+            ],
+            "type": "live",
+            "title": "LCS Spring Finals: Team Liquid vs. TSM",
+            "viewer_count": 360415,
+            "started_at": "2019-04-13T19:22:52Z",
+            "language": "en",
+            "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_riotgames-{width}x{height}.jpg",
+            "tag_ids": [
+                "6ea6bca4-4712-4ab9-a906-e3336a9d8039"
+            ]
+        },
+        {
+            "id": "33672687264",
+            "user_id": "137512364",
+            "user_name": "OverwatchLeague",
+            "game_id": "488552",
+            "community_ids": [],
+            "type": "live",
+            "title": "2019 Season | Stage 2 Week 2 Day 3 | Dallas Fuel vs. Toronto Defiant",
+            "viewer_count": 103695,
+            "started_at": "2019-04-13T18:15:18Z",
+            "language": "en",
+            "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_overwatchleague-{width}x{height}.jpg",
+            "tag_ids": [
+                "6ea6bca4-4712-4ab9-a906-e3336a9d8039",
+                "4b6abc84-752b-42f5-b29b-b54a6ddb9b49"
+            ]
+        },
+        {
+            "id": "33670034112",
+            "user_id": "60056333",
+            "user_name": "Tfue",
+            "game_id": "33214",
+            "community_ids": [],
+            "type": "live",
+            "title": "World Cup Qualifier's Today (NO DELAY)",
+            "viewer_count": 71011,
+            "started_at": "2019-04-13T15:37:54Z",
+            "language": "en",
+            "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tfue-{width}x{height}.jpg",
+            "tag_ids": [
+                "6ea6bca4-4712-4ab9-a906-e3336a9d8039"
+            ]
+        },
+        {
+            "id": "33671508224",
+            "user_id": "163299585",
+            "user_name": "BLASTProSeries",
+            "game_id": "32399",
+            "community_ids": [],
+            "type": "live",
+            "title": "BLAST Pro Series Miami - FaZe Clan vs. Team Liquid - GRAND FINAL MAP 2",
+            "viewer_count": 41467,
+            "started_at": "2019-04-13T17:09:31Z",
+            "language": "en",
+            "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_blastproseries-{width}x{height}.jpg",
+            "tag_ids": [
+                "6ea6bca4-4712-4ab9-a906-e3336a9d8039"
+            ]
+        },
+        {
+            "id": "33676296720",
+            "user_id": "26490481",
+            "user_name": "summit1g",
+            "game_id": "32982",
+            "community_ids": [],
+            "type": "live",
+            "title": "I'm making no money, gonna go bankrupt [ @summit1g ]",
+            "viewer_count": 38928,
+            "started_at": "2019-04-13T21:42:43Z",
+            "language": "en",
+            "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_summit1g-{width}x{height}.jpg",
+            "tag_ids": [
+                "6ea6bca4-4712-4ab9-a906-e3336a9d8039"
+            ]
+        }
+    ],
+    "pagination": {
+        "cursor": "eyJiIjpudWxsLCJhIjp7Ik9mZnNldCI6NX19"
+    }
+}

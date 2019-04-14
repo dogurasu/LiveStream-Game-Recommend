@@ -1,0 +1,162 @@
+{
+    "data": [
+        {
+            "user_id": "36029255",
+            "user_name": "Riot Games",
+            "game_id": "21779",
+            "overwatch": null,
+            "hearthstone": null
+        },
+        {
+            "user_id": "137512364",
+            "user_name": "OverwatchLeague",
+            "game_id": "488552",
+            "overwatch": null,
+            "hearthstone": null
+        },
+        {
+            "user_id": "60056333",
+            "user_name": "Tfue",
+            "game_id": "33214",
+            "overwatch": null,
+            "hearthstone": null
+        },
+        {
+            "user_id": "26490481",
+            "user_name": "summit1g",
+            "game_id": "32982",
+            "overwatch": null,
+            "hearthstone": null
+        },
+        {
+            "user_id": "71092938",
+            "user_name": "xQcOW",
+            "game_id": "509658",
+            "overwatch": null,
+            "hearthstone": null
+        },
+        {
+            "user_id": "19571641",
+            "user_name": "Ninja",
+            "game_id": "33214",
+            "overwatch": null,
+            "hearthstone": null
+        },
+        {
+            "user_id": "55125740",
+            "user_name": "Fortnite",
+            "game_id": "33214",
+            "overwatch": null,
+            "hearthstone": null
+        },
+        {
+            "user_id": "37516578",
+            "user_name": "Warcraft",
+            "game_id": "18122",
+            "overwatch": null,
+            "hearthstone": null
+        },
+        {
+            "user_id": "163299585",
+            "user_name": "BLASTProSeries",
+            "game_id": "32399",
+            "overwatch": null,
+            "hearthstone": null
+        },
+        {
+            "user_id": "23161357",
+            "user_name": "LIRIK",
+            "game_id": "32982",
+            "overwatch": null,
+            "hearthstone": null
+        },
+        {
+            "user_id": "15564828",
+            "user_name": "NICKMERCS",
+            "game_id": "33214",
+            "overwatch": null,
+            "hearthstone": null
+        },
+        {
+            "user_id": "37402112",
+            "user_name": "shroud",
+            "game_id": "491931",
+            "overwatch": null,
+            "hearthstone": null
+        },
+        {
+            "user_id": "190110074",
+            "user_name": "WSOE",
+            "game_id": "29595",
+            "overwatch": null,
+            "hearthstone": null
+        },
+        {
+            "user_id": "71761252",
+            "user_name": "Elwind",
+            "game_id": "509658",
+            "overwatch": null,
+            "hearthstone": null
+        },
+        {
+            "user_id": "87204022",
+            "user_name": "DisguisedToast",
+            "game_id": "138585",
+            "overwatch": null,
+            "hearthstone": {
+                "broadcaster": {
+                    "hero": {
+                        "type": "Classic hero",
+                        "class": "Shaman",
+                        "name": "Thrall"
+                    }
+                },
+                "opponent": {
+                    "hero": {
+                        "type": "Classic hero",
+                        "class": "Warrior",
+                        "name": "Garrosh Hellscream"
+                    }
+                }
+            }
+        },
+        {
+            "user_id": "71852533",
+            "user_name": "OgamingLoL",
+            "game_id": "21779",
+            "overwatch": null,
+            "hearthstone": null
+        },
+        {
+            "user_id": "10384419",
+            "user_name": "2GGaming",
+            "game_id": "504461",
+            "overwatch": null,
+            "hearthstone": null
+        },
+        {
+            "user_id": "29829912",
+            "user_name": "DrLupo",
+            "game_id": "33214",
+            "overwatch": null,
+            "hearthstone": null
+        },
+        {
+            "user_id": "68950614",
+            "user_name": "ybicanoooobov",
+            "game_id": "29595",
+            "overwatch": null,
+            "hearthstone": null
+        },
+        {
+            "user_id": "44099416",
+            "user_name": "Rakin",
+            "game_id": "21779",
+            "overwatch": null,
+            "hearthstone": null
+        }
+    ],
+    "pagination": {
+        "cursor": "eyJiIjpudWxsLCJhIjp7Ik9mZnNldCI6MjB9fQ"
+    }
+}

@@ -1,0 +1,347 @@
+{
+    "data": [
+        {
+            "id": "33673974512",
+            "user_id": "36029255",
+            "user_name": "Riot Games",
+            "game_id": "21779",
+            "community_ids": [
+                "ad14d4fc-1a7c-413f-aa32-4906ef3669ae"
+            ],
+            "type": "live",
+            "title": "LCS Spring Finals: Team Liquid vs. TSM",
+            "viewer_count": 362810,
+            "started_at": "2019-04-13T19:22:52Z",
+            "language": "en",
+            "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_riotgames-{width}x{height}.jpg",
+            "tag_ids": [
+                "6ea6bca4-4712-4ab9-a906-e3336a9d8039"
+            ]
+        },
+        {
+            "id": "33672687264",
+            "user_id": "137512364",
+            "user_name": "OverwatchLeague",
+            "game_id": "488552",
+            "community_ids": [],
+            "type": "live",
+            "title": "2019 Season | Stage 2 Week 2 Day 3 | Dallas Fuel vs. Toronto Defiant",
+            "viewer_count": 101601,
+            "started_at": "2019-04-13T18:15:18Z",
+            "language": "en",
+            "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_overwatchleague-{width}x{height}.jpg",
+            "tag_ids": [
+                "6ea6bca4-4712-4ab9-a906-e3336a9d8039"
+            ]
+        },
+        {
+            "id": "33670034112",
+            "user_id": "60056333",
+            "user_name": "Tfue",
+            "game_id": "33214",
+            "community_ids": [],
+            "type": "live",
+            "title": "World Cup Qualifier's Today (NO DELAY)",
+            "viewer_count": 69923,
+            "started_at": "2019-04-13T15:37:54Z",
+            "language": "en",
+            "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tfue-{width}x{height}.jpg",
+            "tag_ids": [
+                "6ea6bca4-4712-4ab9-a906-e3336a9d8039"
+            ]
+        },
+        {
+            "id": "33676296720",
+            "user_id": "26490481",
+            "user_name": "summit1g",
+            "game_id": "32982",
+            "community_ids": [],
+            "type": "live",
+            "title": "I'm making no money, gonna go bankrupt [ @summit1g ]",
+            "viewer_count": 38560,
+            "started_at": "2019-04-13T21:42:43Z",
+            "language": "en",
+            "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_summit1g-{width}x{height}.jpg",
+            "tag_ids": [
+                "6ea6bca4-4712-4ab9-a906-e3336a9d8039"
+            ]
+        },
+        {
+            "id": "33675471328",
+            "user_id": "71092938",
+            "user_name": "xQcOW",
+            "game_id": "509658",
+            "community_ids": [],
+            "type": "live",
+            "title": "PARTIES WITH THE BOYS",
+            "viewer_count": 35876,
+            "started_at": "2019-04-13T20:48:03Z",
+            "language": "en",
+            "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xqcow-{width}x{height}.jpg",
+            "tag_ids": [
+                "6ea6bca4-4712-4ab9-a906-e3336a9d8039"
+            ]
+        },
+        {
+            "id": "33671508224",
+            "user_id": "163299585",
+            "user_name": "BLASTProSeries",
+            "game_id": "32399",
+            "community_ids": [],
+            "type": "live",
+            "title": "BLAST Pro Series Miami - FaZe Clan vs. Team Liquid - GRAND FINAL MAP 2",
+            "viewer_count": 33771,
+            "started_at": "2019-04-13T17:09:31Z",
+            "language": "en",
+            "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_blastproseries-{width}x{height}.jpg",
+            "tag_ids": [
+                "6ea6bca4-4712-4ab9-a906-e3336a9d8039"
+            ]
+        },
+        {
+            "id": "33677490464",
+            "user_id": "19571641",
+            "user_name": "Ninja",
+            "game_id": "33214",
+            "community_ids": [],
+            "type": "live",
+            "title": "Qualified For Tomorrow! | New 20/50/100 gifted sub alerts! | !charity - dbh.la/4mil",
+            "viewer_count": 31554,
+            "started_at": "2019-04-13T23:08:18Z",
+            "language": "en",
+            "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ninja-{width}x{height}.jpg",
+            "tag_ids": [
+                "6ea6bca4-4712-4ab9-a906-e3336a9d8039"
+            ]
+        },
+        {
+            "id": "33674731184",
+            "user_id": "55125740",
+            "user_name": "Fortnite",
+            "game_id": "33214",
+            "community_ids": [],
+            "type": "live",
+            "title": "Fortnite World Cup - Week 1 Semi-Finals",
+            "viewer_count": 25555,
+            "started_at": "2019-04-13T20:03:46Z",
+            "language": "en",
+            "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fortnite-{width}x{height}.jpg",
+            "tag_ids": [
+                "6ea6bca4-4712-4ab9-a906-e3336a9d8039"
+            ]
+        },
+        {
+            "id": "33669053024",
+            "user_id": "37516578",
+            "user_name": "Warcraft",
+            "game_id": "18122",
+            "community_ids": [],
+            "type": "live",
+            "title": "MDI West Spring Cup #2 | Top 8 | Learn to Fly vs Eligible Gamerdads",
+            "viewer_count": 25341,
+            "started_at": "2019-04-13T14:30:09Z",
+            "language": "en",
+            "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_warcraft-{width}x{height}.jpg",
+            "tag_ids": [
+                "6ea6bca4-4712-4ab9-a906-e3336a9d8039"
+            ]
+        },
+        {
+            "id": "33677509648",
+            "user_id": "23161357",
+            "user_name": "LIRIK",
+            "game_id": "32982",
+            "community_ids": [],
+            "type": "live",
+            "title": "Longer stream, watching something interesting with the stream tonight",
+            "viewer_count": 20480,
+            "started_at": "2019-04-13T23:09:44Z",
+            "language": "en",
+            "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lirik-{width}x{height}.jpg",
+            "tag_ids": [
+                "d0976a7e-26a7-4a48-9225-c522808540f2",
+                "6ea6bca4-4712-4ab9-a906-e3336a9d8039"
+            ]
+        },
+        {
+            "id": "33677290080",
+            "user_id": "15564828",
+            "user_name": "NICKMERCS",
+            "game_id": "33214",
+            "community_ids": [],
+            "type": "live",
+            "title": "Solos World Cup Qualifier Semi-Finals | @Nickmercs On Socials | @100Thieves",
+            "viewer_count": 18942,
+            "started_at": "2019-04-13T22:54:14Z",
+            "language": "en",
+            "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nickmercs-{width}x{height}.jpg",
+            "tag_ids": [
+                "6ea6bca4-4712-4ab9-a906-e3336a9d8039"
+            ]
+        },
+        {
+            "id": "33671104112",
+            "user_id": "190110074",
+            "user_name": "WSOE",
+            "game_id": "29595",
+            "community_ids": [
+                "8182b7b5-5253-4c65-9c7b-f974be21c123",
+                "b0e7cf13-4131-4f1b-9810-d88087de024b",
+                "e6589f58-2d1b-4f1c-b8d8-ec5701f41981"
+            ],
+            "type": "live",
+            "title": "WSOE 6: Dota 2 - Serenity's Destiny - Day 1 - VIP Trip & PC !giveaway",
+            "viewer_count": 16610,
+            "started_at": "2019-04-13T16:45:32Z",
+            "language": "en",
+            "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wsoe-{width}x{height}.jpg",
+            "tag_ids": [
+                "1eba3cfe-51cc-460a-8259-bc8bb987f904",
+                "b13ce7d5-d513-49ff-a957-76f193df42aa",
+                "6ea6bca4-4712-4ab9-a906-e3336a9d8039"
+            ]
+        },
+        {
+            "id": "33676386096",
+            "user_id": "37402112",
+            "user_name": "shroud",
+            "game_id": "491931",
+            "community_ids": [],
+            "type": "live",
+            "title": "IS THIS WHO UR LOOKING FOR?? | @shroud on socials for updates",
+            "viewer_count": 16035,
+            "started_at": "2019-04-13T21:49:05Z",
+            "language": "en",
+            "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shroud-{width}x{height}.jpg",
+            "tag_ids": [
+                "6ea6bca4-4712-4ab9-a906-e3336a9d8039"
+            ]
+        },
+        {
+            "id": "33674311840",
+            "user_id": "71761252",
+            "user_name": "Elwind",
+            "game_id": "509658",
+            "community_ids": [],
+            "type": "live",
+            "title": "yay\u0131n.mov",
+            "viewer_count": 14413,
+            "started_at": "2019-04-13T19:41:29Z",
+            "language": "tr",
+            "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elwind-{width}x{height}.jpg",
+            "tag_ids": [
+                "f08d5873-f0c7-4912-94ba-a41933b4c141"
+            ]
+        },
+        {
+            "id": "33675672304",
+            "user_id": "87204022",
+            "user_name": "DisguisedToast",
+            "game_id": "138585",
+            "community_ids": [],
+            "type": "live",
+            "title": "NA Legend Climb | Follow @DisguisedToast",
+            "viewer_count": 12868,
+            "started_at": "2019-04-13T21:01:09Z",
+            "language": "en",
+            "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_disguisedtoast-{width}x{height}.jpg",
+            "tag_ids": [
+                "ad18ee82-c0b2-46d4-b4f9-d45994443bd7",
+                "cc8d5abb-39c9-4942-a1ee-e1558512119e",
+                "3bbf3e11-717e-46af-aec3-37e4f9216db4",
+                "e1a43486-eee5-4f36-9ee6-76e72af00180",
+                "6ea6bca4-4712-4ab9-a906-e3336a9d8039",
+                "7f613168-c2fb-48f7-948b-a51aa8fd53d0",
+                "d00713db-08bb-40cc-90ca-1026ed54121f"
+            ]
+        },
+        {
+            "id": "33673779984",
+            "user_id": "71852533",
+            "user_name": "OgamingLoL",
+            "game_id": "21779",
+            "community_ids": [
+                "229f348c-3bdc-45af-8e66-3e7562f7c2a5"
+            ],
+            "type": "live",
+            "title": "TL vs TSM - FINALE - BO5 - LCS 2019\t",
+            "viewer_count": 12135,
+            "started_at": "2019-04-13T19:12:29Z",
+            "language": "fr",
+            "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ogaminglol-{width}x{height}.jpg",
+            "tag_ids": [
+                "6f655045-9989-4ef7-8f85-1edcec42d648"
+            ]
+        },
+        {
+            "id": "33672003968",
+            "user_id": "10384419",
+            "user_name": "2GGaming",
+            "game_id": "504461",
+            "community_ids": [],
+            "type": "live",
+            "title": "Prime Saga Day 1 - Smash Ultimate Tournament",
+            "viewer_count": 11081,
+            "started_at": "2019-04-13T17:38:21Z",
+            "language": "en",
+            "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_2ggaming-{width}x{height}.jpg",
+            "tag_ids": [
+                "6ea6bca4-4712-4ab9-a906-e3336a9d8039"
+            ]
+        },
+        {
+            "id": "33668429872",
+            "user_id": "29829912",
+            "user_name": "DrLupo",
+            "game_id": "33214",
+            "community_ids": [],
+            "type": "live",
+            "title": "world cup viewing shindig :) // !charity",
+            "viewer_count": 10700,
+            "started_at": "2019-04-13T13:42:37Z",
+            "language": "en",
+            "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_drlupo-{width}x{height}.jpg",
+            "tag_ids": [
+                "6ea6bca4-4712-4ab9-a906-e3336a9d8039"
+            ]
+        },
+        {
+            "id": "33673167232",
+            "user_id": "68950614",
+            "user_name": "ybicanoooobov",
+            "game_id": "29595",
+            "community_ids": [],
+            "type": "live",
+            "title": "\u041d\u0430 \u043a\u043e\u043c \u0432\u044b\u0438\u0433\u0440\u044b\u0432\u0430\u0442\u044c \u0438 \u043f\u043e\u0434\u043d\u0438\u043c\u0430\u0442\u044c\u0441\u044f? \u0422\u0435\u0441\u0442\u0438\u0440\u0443\u0435\u043c \u0438 \u043f\u0440\u043e\u0432\u0435\u0440\u044f\u0435\u043c \u0433\u0435\u0440\u043e\u0435\u0432 \u0432\u043c\u0435\u0441\u0442\u0435 \u0441 \u0424\u0435\u0434\u0435\u0440\u0438\u043a\u043e :)",
+            "viewer_count": 10160,
+            "started_at": "2019-04-13T18:41:02Z",
+            "language": "ru",
+            "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ybicanoooobov-{width}x{height}.jpg",
+            "tag_ids": [
+                "0569b171-2a2b-476e-a596-5bdfb45a1327"
+            ]
+        },
+        {
+            "id": "33670190912",
+            "user_id": "28633374",
+            "user_name": "Starladder5",
+            "game_id": "32399",
+            "community_ids": [
+                "4bef9cc9-c81d-4384-a62e-b16cf5e7a45e",
+                "87d145b7-30a3-421d-a77f-4ef22dc51f90"
+            ],
+            "type": "live",
+            "title": "Team Liquid vs FaZe Clan | BLAST Pro Series: Miami 2019 w/ HomeR & okrOshka",
+            "viewer_count": 9264,
+            "started_at": "2019-04-13T15:48:12Z",
+            "language": "ru",
+            "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_starladder5-{width}x{height}.jpg",
+            "tag_ids": [
+                "0569b171-2a2b-476e-a596-5bdfb45a1327"
+            ]
+        }
+    ],
+    "pagination": {
+        "cursor": "eyJiIjpudWxsLCJhIjp7Ik9mZnNldCI6MjB9fQ"
+    }
+}
